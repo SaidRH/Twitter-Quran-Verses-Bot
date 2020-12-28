@@ -5,8 +5,6 @@ from bidi.algorithm import get_display
 from arabic_reshaper import ArabicReshaper
 from time import sleep
 from threading import Thread
-import praw
-import atexit
 import time
 import tweepy
 
