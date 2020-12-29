@@ -1,5 +1,5 @@
 # TwitterQuranBot
-https://twitter.com/6236ayatproject
+https://twitter.com/AyatBot
 
 # Contribute  
 
